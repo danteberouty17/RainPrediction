@@ -5,5 +5,6 @@ thousand collected weather statistics, and whether or not it rained the day afte
 were taken. The code implements models such as Naive Bayes, MLP, and Logistic Regression.
 
 Sample Output:
+
 ![My Image](SampleOutput.png)
 
